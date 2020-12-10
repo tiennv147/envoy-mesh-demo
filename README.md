@@ -1,5 +1,5 @@
 # Serice Mesh demo with Envoy
-![setup](https://raw.githubusercontent.com/tiennv147/enovy-mesh-demo/master/diagrams/envoy-mesh-demo.png)
+![setup](diagrams/envoy-mesh-demo.png)
 
 
 ### Run:  
